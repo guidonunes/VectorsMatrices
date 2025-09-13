@@ -18,7 +18,7 @@ This project includes practical examples and implementations of:
 
   ---
 
-  Claro, aqui está a tradução para o português do Brasil.
+
 
 # Exercícios com Vetores e Matrizes
 Este repositório contém exercícios e implementações de algoritmos desenvolvidos para fins acadêmicos como parte do curso de Análise e Desenvolvimento de Sistemas da FIAP.
